@@ -1,0 +1,8 @@
+{
+  "name": "WildernessMesh GPS",
+  "description": "Offline wilderness tracking, peer-to-peer LoRa/BLE mesh team location sharing, GPX trail recorder, and tactical navigation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
